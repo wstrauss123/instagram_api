@@ -1,0 +1,22 @@
+html { 
+  background-color: #000000;
+}
+
+body {
+    color: #FFFFFF;
+    -webkit-font-smoothing: antialiased;
+    font-size: 1.1rem;
+    font-family: 'Open Sans', sans-serif;
+}
+
+h2 {
+    text-align: center;
+    padding-top: 35px;
+    padding-bottom: 65px;
+}
+
+#container {
+    height: 306px;
+    width: 306px;
+    margin: 0 auto;
+}
